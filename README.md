@@ -4,8 +4,9 @@ A small add-on that adds some features to Fennec.
 
 Current features:
 
-* view image
-* view source
-* download media files
+* 'View image' context menu entry
+* 'View source' main menu entry
 
+
+To compile the addon, get yourself the Mozilla Add-on SDK from https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation and run "cfx xpi --force-mobile" in the main add-on directory.
 
