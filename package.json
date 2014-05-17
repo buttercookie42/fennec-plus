@@ -10,9 +10,10 @@
     ],
     "name": "fennec-plus",
     "license": "MPL 2.0",
-    "author": "jeff@canuckistani.ca",
-    "version": "0.1",
+    "author": "jh+mozilla-addons@buttercookie.de",
+    "version": "0.2",
     "fullName": "Fennec+",
-    "id": "fennec-plus@canuckistani.ca",
-    "description": "An add-on that fills in some missing features on Fennec."
+    "id": "fennec-plus@buttercookie.de",
+    "description": "An add-on that fills in some missing features on Fennec.",
+    "icon": "icon.png"
 }

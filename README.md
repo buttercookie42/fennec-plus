@@ -10,3 +10,5 @@ Current features:
 
 To compile the addon, get yourself the Mozilla Add-on SDK from https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation and run "cfx xpi --force-mobile" in the main add-on directory.
 
+
+Expanded version of Jeff Griffiths's original add-on.
