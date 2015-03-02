@@ -11,7 +11,7 @@
     "name": "fennec-plus",
     "license": "MPL 2.0",
     "author": "jh+mozilla-addons@buttercookie.de",
-    "version": "0.2",
+    "version": "0.2.1",
     "fullName": "Fennec+",
     "id": "fennec-plus@buttercookie.de",
     "description": "An add-on that fills in some missing features on Fennec.",

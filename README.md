@@ -12,4 +12,4 @@ To compile the addon, get yourself the Mozilla Add-on SDK from https://developer
 Or just download the ready-built version from here ;-)
 
 
-Expanded version of Jeff Griffiths's original add-on (https://github.com/canuckistani/fennec-plus).
+Modified version of Jeff Griffiths's original add-on (https://github.com/canuckistani/fennec-plus).
