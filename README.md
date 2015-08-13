@@ -8,7 +8,7 @@ Current features:
 * 'View source' main menu entry
 
 
-To compile the addon, get yourself the Mozilla Add-on SDK from https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation and run "cfx xpi --force-mobile" in the main add-on directory.
+To compile the addon, get yourself the Mozilla Add-on SDK from https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/jpm#Installation and run "jpm xpi" in the main add-on directory.
 Or just download the ready-built version from here ;-)
 
 
