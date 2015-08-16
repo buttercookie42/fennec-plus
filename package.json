@@ -10,7 +10,7 @@
     ],
     "title": "Fennec+",
     "name": "fennec-plus",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "description": "An add-on that fills in some missing features on Fennec.",
     "main": "lib/main.js",
     "engines": {
