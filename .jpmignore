@@ -11,6 +11,7 @@
 # Ignore graphics source files
 *.pld
 *.plb
+icon64.png
 
 # Ignore documentation
 doc/
