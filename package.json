@@ -14,7 +14,7 @@
     "description": "An add-on that fills in some missing features on Fennec.",
     "main": "lib/main.js",
     "engines": {
-        "fennec": ">=38.0a1 <=45.0a1"
+        "fennec": ">=38.0a1 <=49.0a1"
     },
     "author": "jh+mozilla-addons@buttercookie.de",
     "id": "fennec-plus@buttercookie.de",
